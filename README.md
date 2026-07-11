@@ -314,7 +314,7 @@ This universal wrapper architecture lets you:
 
 ```bash
 # 1. Clone the universal wrapper
-git clone https://github.com/your-repo/universal-api-wrapper
+git clone https://github.com/tinosingh/multipass/
 
 # 2. Install dependencies
 pip install -r requirements.txt
