@@ -137,7 +137,6 @@ python universal_api_wrapper.py my_ml_pipeline --config my_library_config.yaml
 
 ### Docker Compose for Multiple Services
 ```yaml
-version: '3.8'
 
 services:
   # Computer Vision API
